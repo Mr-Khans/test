@@ -7,7 +7,7 @@
 
 | Исходная текстура                         | Результат синтеза (3x3)                                  |
 | ----------------------------------------- | -------------------------------------------------------- |
-| <img src="input/texture.png" width="500"> | <img src="examples/texture_synthesized.jpg" width="500"> |
+| <img src="image/texture.png" width="500"> | <img src="examples/texture_synthesized.jpg" width="500"> |
 
 
 # Ключевые возможности
