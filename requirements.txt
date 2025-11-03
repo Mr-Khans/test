@@ -1,0 +1,5 @@
+opencv-python
+numpy
+tqdm
+cupy-cuda11x # или cupy-cuda12x в зависимости от вашей версии CUDA
+
